@@ -1,0 +1,25 @@
+*
+!.gitignore
+!README.md
+
+# Part I
+!dlv
+!fillstruct
+!gocode
+!gocode-gomod
+!godef
+!godoctor
+!golint
+!gomodifytags
+!go-outline
+!gopkgs
+!gopls
+!gorename
+!goreturns
+!go-symbols
+!gotests
+!guru
+!impl
+
+# Part II
+!protoc-gen-go
